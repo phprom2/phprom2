@@ -1,5 +1,5 @@
 
-# Hi, I'm Romain! 👋
+# Hi, I'm ******! 👋
 
 
 ## 🚀 About Me
@@ -12,7 +12,5 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://phprom1.fr/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-pioli-401b32270/)
 [![rootme](https://svgshare.com/i/s3s.svg)](https://www.root-me.org/phprom1)
 
