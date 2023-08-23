@@ -13,5 +13,5 @@
 
 ## 🔗 Links
 [![rootme](https://svgshare.com/i/s3s.svg)](https://www.root-me.org/phprom1)
- <script src="https://tryhackme.com/badge/799602"></script>
+<script src="https://tryhackme.com/badge/799602"></script>
 
