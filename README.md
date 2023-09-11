@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-2600 Cyber-security student 🇫🇷🥷
+2600 Cyber-security student 🇫🇷🏴‍☠️
 
 
 ## 🛠 Skills
